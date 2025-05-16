@@ -2,7 +2,7 @@
 
 ## 🚀 AI Product Architect | Digital Innovator | Fintech Entrepreneur
 
-Welcome to my GitHub! I'm a visionary tech entrepreneur and product designer passionate about leveraging emerging technologies to solve real-world problems — especially across Africa. With a strong background in **AI**, **FinTech**, **UX/UI**, and **digital transformation**, I build and scale impactful digital solutions from the ground up.
+Welcome to my GitHub! I'm a visionary tech entrepreneur and product designer passionate about leveraging emerging technologies to solve real-world problems — especially across Africa. With a strong background in **AI**, **FinTech**, **UX/UI Design**, and **Digital Transformation**, I build and scale impactful digital solutions from the ground up.
 
 ---
 

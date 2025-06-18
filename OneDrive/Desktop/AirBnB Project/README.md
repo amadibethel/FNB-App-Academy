@@ -17,10 +17,33 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 - JavaScript (React)
 
 ### Backend:
-- Node.js (Optional, based on your stack choice)
-- Express.js (Optional)
+- Node.js (optional)
+- Express.js (optional)
 - MongoDB or SQL
 
 ### Tools:
 - Git & GitHub
 - Figma (for UI/UX design)
+
+---
+
+## 📐 UI/UX Design Planning
+
+### 🎯 Design Goals
+- Create an intuitive and seamless booking flow for users  
+- Maintain a clean and visually consistent interface across all pages  
+- Ensure fast load times for optimal performance  
+- Prioritize mobile-first, responsive design for all devices  
+- Follow accessibility standards (WCAG) to support all users  
+
+### ✨ Key Features to Implement
+- **Property Search & Filtering:** Easily find listings by location, date, guests, price, and amenities  
+- **Detailed Property Viewing:** High-quality images, amenities, host details, and map integration  
+- **Secure Checkout Process:** Simplified booking and secure payment with confirmation  
+- **User Authentication:** Sign up, log in, and manage bookings  
+- **Responsive Navigation:** Mobile-friendly and easy-to-access menus  
+- **Favorites/Bookmarking:** Allow users to save properties they’re interested in  
+
+### 📄 Primary Page Descriptions
+
+| **Page**                 | **Description**
